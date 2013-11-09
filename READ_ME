@@ -1,0 +1,11 @@
+Danny Michaelis
+Running:
+    Everything is built off of graphics_ui.py so running 'python graphics_ui' should launch the game.
+
+Some additional features
+    Cone shaped cannon
+    Bullet is loaded into the cannon, not in the corner.
+    The base of the Cannon is a randomly colored ball.
+    Balls, when falling are both over the stable balls, as in the Z axis, but also are given the appearance of coming towards the screen.
+    Balls that are falling also have a small trail.
+    Balls are able to bounce off the sides.
